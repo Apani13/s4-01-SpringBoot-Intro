@@ -8,7 +8,7 @@ public class HealthController {
 
     @GetMapping("/health")
     public Health printOk() {
-        return new Health("ok");
+        return new Health("OK");
     }
 
 }
