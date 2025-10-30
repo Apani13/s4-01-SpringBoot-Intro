@@ -2,7 +2,7 @@
 
 ## 🎯 Goal
 
-This project is your first contact with Spring Boot and REST API development.
+This project is a first contact with Spring Boot and REST API development.
 It builds a minimal yet functional API that sends and receives JSON data, following clean coding and testing best practices.
 
 ---
